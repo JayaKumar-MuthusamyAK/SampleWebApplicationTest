@@ -235,6 +235,8 @@ public class MultiligualTestCasePractice {
 				String comparingfilepath = inputexcel.getCellData("loginpage", string, h);
 				if(compareImages(filepathfordownloaded,comparingfilepath)==true)
 					System.out.println("BOTH IMAGES IS MATCHED : PASS");
+				else
+					System.out.println("BOTH IMAGES IS NOT MATCHED : FAIL");
 			}
 			
 		}
