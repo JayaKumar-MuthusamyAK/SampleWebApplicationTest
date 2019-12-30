@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22380" started-at="2019-12-26T12:06:59Z" finished-at="2019-12-26T12:07:21Z">
+  <suite name="Default suite" duration-ms="12103" started-at="2019-12-29T16:48:19Z" finished-at="2019-12-29T16:48:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22380" started-at="2019-12-26T12:06:59Z" finished-at="2019-12-26T12:07:21Z">
-      <class name="com.testcases.TC_002_MultiligualTestCases">
-        <test-method status="PASS" signature="testcaseGSM02()[pri:0, instance:com.testcases.TC_002_MultiligualTestCases@5bf0d49]" name="testcaseGSM02" duration-ms="22333" started-at="2019-12-26T17:36:59Z" finished-at="2019-12-26T17:37:21Z">
+    <test name="Default test" duration-ms="12103" started-at="2019-12-29T16:48:19Z" finished-at="2019-12-29T16:48:31Z">
+      <class name="com.testcases.TC_003_LoginPageAttributesValidationTestCases">
+        <test-method status="PASS" signature="testcaseGSM02()[pri:0, instance:com.testcases.TC_003_LoginPageAttributesValidationTestCases@54d9d12d]" name="testcaseGSM02" duration-ms="12080" started-at="2019-12-29T22:18:19Z" finished-at="2019-12-29T22:18:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcaseGSM02 -->
-      </class> <!-- com.testcases.TC_002_MultiligualTestCases -->
+      </class> <!-- com.testcases.TC_003_LoginPageAttributesValidationTestCases -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

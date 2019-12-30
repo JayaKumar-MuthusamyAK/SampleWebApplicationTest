@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.testcases.TC_002_MultiligualTestCases">
+      <class name="com.testcases.TC_003_LoginPageAttributesValidationTestCases">
         <methods>
           <include name="testcaseGSM02"/>
         </methods>
-      </class> <!-- com.testcases.TC_002_MultiligualTestCases -->
+      </class> <!-- com.testcases.TC_003_LoginPageAttributesValidationTestCases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
